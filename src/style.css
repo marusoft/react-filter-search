@@ -1,0 +1,20 @@
+h1, p {
+  font-family: Lato;
+}
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App input {
+  margin-top: 5px;
+  width: 300px;
+  height: 35px;
+  font-size: 15px;
+  padding-left: 10px;
+}
+.record{
+  padding: 5px;
+}
